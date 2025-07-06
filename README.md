@@ -50,4 +50,5 @@ Through this dashboard, I aim to answer:
 | Dashboard Overview | Report & Insights |
 |--------------------|-------------------|
 
+dashboard_page1.png
 
