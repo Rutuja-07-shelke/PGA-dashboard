@@ -47,8 +47,9 @@ Through this dashboard, I aim to answer:
 | GitHub      | Project documentation & versioning |
 
 
-| Dashboard Overview | Report & Insights |
-|--------------------|-------------------|
+| Dashboard Overview | 
 
 dashboard_page1.png
+
+
 
