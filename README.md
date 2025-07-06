@@ -48,8 +48,7 @@ Through this dashboard, I aim to answer:
 
 
 | Dashboard Overview | 
-
-dashboard_page1.png
+https://github.com/Rutuja-07-shelke/PGA-dashboard/blob/main/dashboard_page1.png
 
 
 
