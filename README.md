@@ -45,3 +45,6 @@ Through this dashboard, I aim to answer:
 | DAX         | Measures, logic & KPIs        |
 | CSV         | Source data files             |
 | GitHub      | Project documentation & versioning |
+
+https://github.com/Rutuja-07-shelke/PGA-dashboard/blob/main/dashboard_page1.png
+
